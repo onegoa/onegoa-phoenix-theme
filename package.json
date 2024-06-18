@@ -1,20 +1,21 @@
 {
-    "title": "Name of the extension",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample extension.",
+    "title": "onegoa-phoenix-theme",
+    "name": "gh-onegoa-onegoa-phoenix-theme",
+    "description": "onegoa-dark-theme",
     "version": "0.0.1",
-    "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "license": "MIT License",
+    "author": "onegoa",
+    "homepage": "https://github.com/onegoa/onegoa-phoenix-theme",
     "engines": {
         "brackets": ">=2.0.0"
     },
     "categories": "demo",
     "keywords": [
-        "phcode", "extension", "demo"
+        "phcode",
+        "extension",
+        "demo"
     ],
     "files": [
         "main.js"
     ]
 }
-
